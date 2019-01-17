@@ -1,6 +1,6 @@
 # Test Repo
 
-This is a test repo so I named it as TestRepo.
+This is a test repo and trying to test headings,hyperlinks,lists and Image.
 
 ## Trying Hyperlinks
 
