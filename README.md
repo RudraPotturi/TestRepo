@@ -2,9 +2,11 @@
 
 This is a test repo so I named it as TestRepo.
 
-## Trying different headings
+## Trying Hyperlinks
 
-[Canvas](https://nwmissouri.instructure.com/ "opening Canvas")
+- [Canvas](https://nwmissouri.instructure.com/ "opening Canvas")
+- [NWMissouri](https://www.nwmissouri.edu/ "about NWMissouri")
+
 
 ## unordered List
 
