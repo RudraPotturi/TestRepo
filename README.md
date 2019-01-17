@@ -1,4 +1,4 @@
-# TestRepo
+# Test Repo
 
 This is a test repo so I named it as TestRepo.
 
@@ -6,6 +6,7 @@ This is a test repo so I named it as TestRepo.
 
 - [Canvas](https://nwmissouri.instructure.com/ "opening Canvas")
 - [NWMissouri](https://www.nwmissouri.edu/ "about NWMissouri")
+- [mygithub](https://github.com/RudraPotturi/testrepo)
 
 
 ## unordered List
@@ -15,11 +16,11 @@ This is a test repo so I named it as TestRepo.
 
 ## ordered List
 
-1. element1
-1. element2
-1. element3
+1. value1
+1. value2
+1. value3
 
-## Displaying Images
+## Displaying Image
 
 ### Panda Image
 
